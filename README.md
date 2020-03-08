@@ -1,4 +1,4 @@
-# project-PROVANT
+# elMeuArbre
 Repositori added to project PROVANT. It creates an react app
 
 El repositori vol probar les possibilitats de l'eina PROJECT dins de GITHUB.
